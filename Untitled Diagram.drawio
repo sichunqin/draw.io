@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T01:17:12.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.0" etag="MY50ZKZsZCx4cGlBl5gh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T01:23:22.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rNgaIUGUo4B289uamcMQ" version="22.1.0" type="github">
   <diagram name="Page-1" id="Oi2URwplTFKzTPAcGBmn">
-    <mxGraphModel>
+    <mxGraphModel dx="1329" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CoVtvvBq3vYbISneMbIC-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="10" y="292.5" width="71" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-2" value="Amlogic Key Division Tool&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-3" value="Amlogic Keywrapper Tool&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CoVtvvBq3vYbISneMbIC-1" target="CoVtvvBq3vYbISneMbIC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="320" as="sourcePoint" />
+            <mxPoint x="160" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CoVtvvBq3vYbISneMbIC-2" target="CoVtvvBq3vYbISneMbIC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="315" as="sourcePoint" />
+            <mxPoint x="389" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="1">
+          <mxGeometry x="286" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CoVtvvBq3vYbISneMbIC-3" target="CoVtvvBq3vYbISneMbIC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="1">
+          <mxGeometry x="540" y="292.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-10" value="Provision Service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CoVtvvBq3vYbISneMbIC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.025;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CoVtvvBq3vYbISneMbIC-7" target="CoVtvvBq3vYbISneMbIC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="320" as="sourcePoint" />
+            <mxPoint x="700" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
