@@ -8,10 +8,10 @@
           <mxGeometry x="631" y="100" width="230" height="330" as="geometry" />
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="60" y="151" width="78" height="78" as="geometry" />
+          <mxGeometry x="2" y="142" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="60" y="310" width="78" height="78" as="geometry" />
+          <mxGeometry x="2" y="329" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-4" value="Device Signing Service (Primary)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="160" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="195" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="60" y="530" width="78" height="78" as="geometry" />
+          <mxGeometry y="500" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock" vertex="1" parent="1">
           <mxGeometry x="631" y="100" width="23.4" height="30" as="geometry" />
@@ -48,6 +48,39 @@
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-15" value="Mutual TLS is required" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="533" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-16" value="Authorized FAE&amp;nbsp; for dev build" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="222" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-17" value="Authorized FAE&amp;nbsp; for dev build" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="410" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-18" value="Security Engineer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="578" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UabU1FlGDKGVssxkt4iC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="190" as="sourcePoint" />
+            <mxPoint x="120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UabU1FlGDKGVssxkt4iC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="120" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UabU1FlGDKGVssxkt4iC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="540" as="sourcePoint" />
+            <mxPoint x="130" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
