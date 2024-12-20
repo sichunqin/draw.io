@@ -41,6 +41,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="190" as="sourcePoint" />
             <mxPoint x="561" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-13" value="Secure Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -99,6 +102,9 @@
         </mxCell>
         <mxCell id="UabU1FlGDKGVssxkt4iC-25" value="Configure anti-rollback versions&amp;nbsp;&lt;div&gt;(scs_vers, tee_vers, ree_vers)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UabU1FlGDKGVssxkt4iC-26" value="Mutual TLS is required" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538" y="320" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
